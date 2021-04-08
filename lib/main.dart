@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-import 'ButtonSection.dart';
-import 'Image.dart';
-import 'ShortNameSection.dart';
-import 'TextSection.dart';
+import 'WeighetSection/ButtonSection.dart';
+import 'WeighetSection/Image.dart';
+import 'WeighetSection/ShortNameSection.dart';
+import 'WeighetSection/TextSection.dart';
 
 void main() {
   runApp(Myapp());
